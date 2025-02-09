@@ -1,12 +1,12 @@
-🛒 Walmart Data Analysis
+🛒 **Walmart Data Analysis**
 
 
-📌 Project Overview
+📌 **Project Overview**
 
 This project aims to analyze Walmart sales data by integrating Python with SQL. The data was cleaned using Pandas DataFrame and further analyzed using SQL queries to extract meaningful insights. The objective is to understand sales patterns, customer preferences, and business performance across different branches and product categories.
 
 
-🛠️ Technologies Used
+🛠️ **Technologies Used**
 
 Python (Pandas, NumPy)
 
@@ -15,22 +15,22 @@ SQL (PostgreSQL/MySQL for database integration)
 Jupyter Notebook / VS Code
 
 
-📂 Data Processing Steps
+📂 **Data Processing Steps**
 
-Data Cleaning:
+**Data Cleaning:**
 
 Handled missing values and duplicate records.
 
 Standardized data formats using Pandas.
 
 
-Data Integration:
+**Data Integration:**
 
 Imported cleaned data into a SQL database.
 
 Created and optimized tables for efficient querying.
 
-Data Analysis Using SQL:
+**Data Analysis Using SQL:**
 
 Performed aggregate functions to analyze sales trends.
 
@@ -39,7 +39,7 @@ Used JOIN, GROUP BY, and CASE statements to derive insights.
 Segmented sales based on time shifts (Morning, Afternoon, Evening).
 
 
-🔍 Key Insights
+🔍 **Key Insights**
 
 
 Identified peak sales hours across different store branches.
