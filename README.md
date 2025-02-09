@@ -1,4 +1,4 @@
-🛒 ** Walmart Data Analysis **
+🛒 **Walmart Data Analysis **
 📌 Project Overview
 This project aims to analyze Walmart sales data by integrating Python with SQL. The data was cleaned using Pandas DataFrame and further analyzed using SQL queries to extract meaningful insights. The objective is to understand sales patterns, customer preferences, and business performance across different branches and product categories.
 
