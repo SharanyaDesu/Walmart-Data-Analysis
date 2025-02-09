@@ -14,6 +14,7 @@ SQL (PostgreSQL/MySQL for database integration)
 
 Jupyter Notebook / VS Code
 
+
 📂 Data Processing Steps
 
 Data Cleaning:
@@ -21,6 +22,7 @@ Data Cleaning:
 Handled missing values and duplicate records.
 
 Standardized data formats using Pandas.
+
 
 Data Integration:
 
